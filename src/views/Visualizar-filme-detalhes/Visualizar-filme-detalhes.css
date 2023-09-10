@@ -1,0 +1,7 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("bootstrap-icons/font/bootstrap-icons.min.css");
+
+body{
+  background: rgb(63,193,251);
+background: radial-gradient(circle, rgba(63,193,251,1) 0%, rgba(4,4,50,1) 100%);
+}
